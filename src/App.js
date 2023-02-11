@@ -8,7 +8,7 @@ function App() {
       <p className='text-sm font-bold text-gray-500'>Help us know you better</p>
       <p className='text-sm  text-gray-500'>(this is how we optimize wobot as per your business needs )</p>
       </div>
-      <form action="" className='flex flex-col m-auto w-1/3 '>
+      <form action="" className='flex flex-col m-auto w-5/6 sm:w-3/4 xl:w-1/3 '>
         <div className='w-full'>
 
         <p className='capitalize'>your name</p>
